@@ -43,7 +43,8 @@ Result:
 
 The healthcare dataset analysis uncovered several key insights. Duplicate records were removed for quality assurance, and we found higher illness rates among low-income individuals and the elderly, with females experiencing more reduced activity days due to illness than males. Income disparities were evident, with lower-income individuals relying more on government insurance and visiting hospitals more frequently, showing their greater dependency on healthcare services. Correlation analysis revealed links between income, insurance status, and healthcare access, while lower private insurance uptake indicated coverage gaps. Overall, these findings highlight areas for targeted healthcare support and resource allocation, addressing the specific needs of at-risk groups based on gender, income, and insurance.
 
-LINK: https://drive.google.com/file/d/1cevdO7-wVtNIG9xHg4yQABSQEwkgzpVE/view?usp=sharing
+Practical Analysis: https://drive.google.com/file/d/1cevdO7-wVtNIG9xHg4yQABSQEwkgzpVE/view?usp=sharing
+Link:https://drive.google.com/file/d/1T0QIfTEbHaOkXkzyn9DqU1mlwmLNHHYH/view?usp=sharing
 
 
 
